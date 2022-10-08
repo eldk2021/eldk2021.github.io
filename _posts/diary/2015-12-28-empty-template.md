@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+date:   2021-12-27
 categories: diary
 ---
 
