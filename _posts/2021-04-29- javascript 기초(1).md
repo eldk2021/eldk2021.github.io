@@ -1,5 +1,5 @@
 ---
-title: javascript 기초
+title: javascript 기초(1)
 date: 2021-04-29
 tags: js
 ---
