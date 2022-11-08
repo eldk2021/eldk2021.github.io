@@ -6,7 +6,7 @@ tags: spring
 
 
 -----
-![DB 설정 과정](/assets/images/_posts/DB 설정 과정.JPG){: width="1000" height="500"}
+![DB 설정 과정](/assets/images/DB 설정 과정.JPG){: width="1000" height="500"}
 
 ![DB데이터 전달 과정](/assets/images/_posts/DB데이터 전달 과정.JPG){: width="1000" height="500"}
 
