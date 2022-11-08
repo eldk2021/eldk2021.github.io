@@ -6,11 +6,11 @@ tags: spring
 
 
 -----
-![DB 설정 과정](/images/_posts/DB 설정 과정.JPG){: width="1000" height="500"}
+![DB 설정 과정](/assets/images/_posts/DB 설정 과정.JPG){: width="1000" height="500"}
 
-![DB데이터 전달 과정](/images/_posts/DB데이터 전달 과정.JPG){: width="1000" height="500"}
+![DB데이터 전달 과정](/assets/images/_posts/DB데이터 전달 과정.JPG){: width="1000" height="500"}
 
-![Select resultType](/images/_posts/Select resultType.JPG){: width="1000" height="500"}
+![Select resultType](/assets/images/_posts/Select resultType.JPG){: width="1000" height="500"}
 
 ```markdown
 Maven - 통합 라이브러리 관리 및 배포 지원
