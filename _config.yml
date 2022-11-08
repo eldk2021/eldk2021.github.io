@@ -217,8 +217,12 @@ defaults:
   - scope:
       path: ""
       type: study
-    values:
+      values:
       nav_key: study
+  - scope:
+      path: "assets/images"
+      values:
+      image: true
 
 
 ## => Plugins
