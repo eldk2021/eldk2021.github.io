@@ -220,7 +220,7 @@ defaults:
       values:
       nav_key: study
   - scope:
-      path: "assets/images/_posts"
+      path: "assets/images"
       values:
       image: true
 
