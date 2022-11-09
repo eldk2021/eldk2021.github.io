@@ -1,6 +1,6 @@
 ---
 title: spring 예제(9) jquery ajax 로그인, 로그아웃, 목록, 페이징
-date: 2021-06-1
+date: 2021-06-11
 tags: spring jquery ajax
 ---
 
